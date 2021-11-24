@@ -1,6 +1,6 @@
 
 function sub(num1, num2) {
-  return -2;
+  return num1 - num2;
 };
 
 module.exports = sub;
