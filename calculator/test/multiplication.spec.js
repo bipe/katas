@@ -35,4 +35,3 @@ test("returns string 'parameter must not be null' when second parameter is null"
 
     expect(result).toBe("parameter must not be null");
 });
-
