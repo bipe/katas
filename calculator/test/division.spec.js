@@ -1,3 +1,5 @@
+const div = require('../src/division');
+
 test("8 / 2 shoul return 4", () => {
     const num1 = 8;
     const num2 = 2;
